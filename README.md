@@ -1,2 +1,2 @@
 # hello_world
-Creating a repo for a tutorial
+Hello World repo for my CS-HU 250 class
